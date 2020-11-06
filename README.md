@@ -3,12 +3,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrjelveh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrjelveh&screen_name=mrjelveh)
 
-## I'm a Frontend Developer who love designing too!!
+## A Frontend Developer who's interested in [designing][behance]!!
 
 - 🔭 I just working on: [Bootsdrac][btsdc]!
 - 🌱 I’m currently learning react deeply :)
 - 👯 I’m looking to collaborate with other react developers
-- 🥅 2020 Goals: finding a new job
 
 ### Connect with me:
 
