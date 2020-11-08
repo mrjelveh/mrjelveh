@@ -1,8 +1,8 @@
 ### Hi there, I'm Mamad - aka [mrjelveh][website] 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrjelveh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrjelveh&screen_name=mrjelveh)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrjelveh?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrjelveh&screen_name=mrjelveh)
+![Github View](https://komarev.com/ghpvc/?username=mrjelveh&style=flat-square)
 ## A Frontend Developer who's interested in [designing][behance]!!
 
 - 🔭 I just working on: [Bootsdrac][btsdc]!
