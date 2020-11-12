@@ -8,6 +8,7 @@
 - 🔭 I just working on: [Bootsdrac][btsdc]!
 - 🌱 I’m currently learning react deeply :)
 - 👯 I’m looking to collaborate with other react developers
+- 🔷 If you want [KNOW MORE][knowMore] about me!
 
 ### Connect with me:
 
@@ -29,7 +30,7 @@
 <br />
 <br />
 
-
+[knowMore]: https://atbox.io/mrjelveh/resume/know-more
 [website]: https://mrjelveh.com
 [btsdc]: https://github.com/mrjelveh/BootsDrac
 [twitter]: https://twitter.com/mrjelveh
