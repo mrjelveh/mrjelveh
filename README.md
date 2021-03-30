@@ -36,5 +36,5 @@
 [twitter]: https://twitter.com/mrjelveh
 [dribbble]: https://dribbble.com/mrjelveh
 [behance]: https://behance.com/mrjelveh
-[linkedin]: https://linkedin.com/in/mohammad-reza-jelveh-006258105
+[linkedin]: https://linkedin.com/in/mrjelveh
 
