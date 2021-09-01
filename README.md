@@ -5,7 +5,7 @@
 ![Github View](https://komarev.com/ghpvc/?username=mrjelveh&style=flat-square)
 ## A Frontend Developer who's interested in [designing][behance]!!
 
-- 🔭 I just working on: [Bootsdrac][btsdc]!
+- 🔭 I just working on: Threejs
 - 🌱 I’m currently learning react deeply :)
 - 👯 I’m looking to collaborate with other react developers
 - 🔷 If you want [KNOW MORE][knowMore] about me!
@@ -32,7 +32,6 @@
 
 [knowMore]: https://atbox.io/mrjelveh/resume/know-more
 [website]: https://mrjelveh.com
-[btsdc]: https://github.com/mrjelveh/BootsDrac
 [twitter]: https://twitter.com/mrjelveh
 [dribbble]: https://dribbble.com/mrjelveh
 [behance]: https://behance.com/mrjelveh
