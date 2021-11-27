@@ -5,7 +5,7 @@
 ![Github View](https://komarev.com/ghpvc/?username=mrjelveh&style=flat-square)
 ## A Frontend Developer who's interested in [designing][behance]!!
 
-- 🔭 I just working on: Threejs
+- 🔭 I just working on: ReasonML
 - 🌱 I’m currently learning react deeply :)
 - 👯 I’m looking to collaborate with other react developers
 - 🔷 If you want [KNOW MORE][knowMore] about me!
