@@ -1,14 +1,11 @@
 ### Hi there, I'm Mamad - aka [mrjelveh][website] 👋
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrjelveh?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrjelveh&screen_name=mrjelveh)
 ![Github View](https://komarev.com/ghpvc/?username=mrjelveh&style=flat-square)
 ## A Frontend Developer who's interested in [designing][behance]!!
 
 - 🔭 I just working on: ReasonML
 - 🌱 I’m currently learning react deeply :)
 - 👯 I’m looking to collaborate with other react developers
-- 🔷 If you want [KNOW MORE][knowMore] about me!
 
 ### Connect with me:
 
@@ -30,7 +27,6 @@
 <br />
 <br />
 
-[knowMore]: https://atbox.io/mrjelveh/resume/know-more
 [website]: https://mrjelveh.com
 [twitter]: https://twitter.com/mrjelveh
 [dribbble]: https://dribbble.com/mrjelveh
