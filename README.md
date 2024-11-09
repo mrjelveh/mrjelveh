@@ -3,9 +3,9 @@
 ![Github View](https://komarev.com/ghpvc/?username=mrjelveh&style=flat-square)
 ## A Frontend Developer who's interested in [designing][behance]!!
 
-- 🔭 I just working on: ReasonML
-- 🌱 I’m currently learning react deeply :)
-- 👯 I’m looking to collaborate with other react developers
+- 🔭 I just working on: frontend engineering
+- 🌱 I’m currently learning programming deeply :)
+- 👯 I’m looking to collaborate with other developers who has vast knowledge in programming
 
 ### Connect with me:
 
@@ -18,11 +18,7 @@
 <br />
 
 ### Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular,react,vue,nuxt,next)](https://skillicons.dev)
 
 <br />
 <br />
