@@ -1,4 +1,4 @@
-### Hi there, I'm Mamad - aka [mrjelveh][website] 👋
+### Hi there, I'm Mareza - aka [mrjelveh][website] 👋
 
 ![Github View](https://komarev.com/ghpvc/?username=mrjelveh&style=flat-square)
 ## A Frontend Developer who's interested in [designing][behance]!!
